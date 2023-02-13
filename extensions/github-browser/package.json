@@ -38,7 +38,7 @@
     "vscode:prepublish": "npm run compile"
   },
   "dependencies": {
-    "@octokit/graphql": "4.5.0",
+    "@octokit/graphql": "4.8.0",
     "@octokit/rest": "17.11.0",
     "fuzzysort": "1.1.4",
     "node-fetch": "2.6.0"
