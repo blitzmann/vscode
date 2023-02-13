@@ -41,7 +41,7 @@
     "@octokit/graphql": "4.5.0",
     "@octokit/rest": "17.11.0",
     "fuzzysort": "1.1.4",
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.8"
   },
   "devDependencies": {
     "@types/node-fetch": "2.5.7",
